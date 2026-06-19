@@ -1,0 +1,2 @@
+# Tharindu
+This is my personal site
